@@ -6,9 +6,6 @@ Department of Biology and Geology, Pabellón de Historia Natural – Centro de I
 Contact: ags408@ual.es (presenting author) · lpaulet@ual.es (\*corresponding author)
 
 Poster presented at the XV Simposio de Investigación en Ciencias Experimentales, University of Almería.
-
-All references are listed below in APA (7th edition) format. A BibTeX file with the same entries is available in [`references.bib`](references.bib) for import into Mendeley, Zotero or other reference managers.
-
 ---
 
 ## References cited in the text
