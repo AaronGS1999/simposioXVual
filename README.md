@@ -8,7 +8,7 @@ Contact: ags408@ual.es (presenting author) · lpaulet@ual.es (\*corresponding au
 Poster presented at the XV Simposio de Investigación en Ciencias Experimentales, University of Almería.
 ---
 
-## References cited in the text
+## References cited in the introduction
 
 Abiyu, A., Yan, D., Girma, A., Song, X., & Wang, H. (2018). Wastewater treatment potential of *Moringa stenopetala* over *Moringa olifera* as a natural coagulant, antimicrobial agent and heavy metal removals. *Cogent Environmental Science*, *4*(1), Article 1433507. https://doi.org/10.1080/23311843.2018.1433507
 
