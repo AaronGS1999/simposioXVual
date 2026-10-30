@@ -7,7 +7,7 @@ Contact: ags408@ual.es (presenting author) · lpaulet@ual.es (\*corresponding au
 
 Poster presented at the XV Simposio de Investigación en Ciencias Experimentales, University of Almería.
 
-[View Abstract](https://raw.githubusercontent.com/AaronGS1999/simposioXVual/main/resumen_simposio_XV_2026_final.pdf) | [View Poster](https://raw.githubusercontent.com/AaronGS1999/simposioXVual/main/p%C3%B3ster_simposio_XV_AGS.pdf)
+[View Abstract](https://github.com/AaronGS1999/simposioXVual/blob/main/resumen_simposio_XV_2026_final.pdf) | [View Poster](https://github.com/AaronGS1999/simposioXVual/blob/main/p%C3%B3ster_simposio_XV_AGS.pdf)
 ---
 
 ## References cited in the introduction
