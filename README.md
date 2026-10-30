@@ -6,6 +6,7 @@ Department of Biology and Geology, Pabellón de Historia Natural – Centro de I
 Contact: ags408@ual.es (presenting author) · lpaulet@ual.es (\*corresponding author)
 
 Poster presented at the XV Simposio de Investigación en Ciencias Experimentales, University of Almería.
+
 [View Abstract](https://raw.githubusercontent.com/AaronGS1999/simposioXVual/main/resumen_simposio_XV_2026_final.pdf) | [View Poster](https://raw.githubusercontent.com/AaronGS1999/simposioXVual/main/póster_simposio_XV_AGS.pdf)
 ---
 
